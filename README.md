@@ -13,4 +13,4 @@ I'm Danila Mishin, CS student from Moscow, Russia. I am into Programming and Mat
 Most of my C++ projects are in private repositories yet, to be opened for public soon.
 
 ### 📚 Some of my articles
-About [Tapper's Formula](https://habr.com/ru/post/416177/) \[in russian\
+About [Tapper's Formula](https://habr.com/ru/post/416177/) \[in russian\]
