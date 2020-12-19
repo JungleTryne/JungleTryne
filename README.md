@@ -1,5 +1,5 @@
 ### 👋 Hi there
-I'm Danila Mishin. I am CS student from Moscow, Russia. I am into Programming and Math. Currently studying at Moscow Institute of Physics and Technology.
+I'm Danila Mishin, CS student from Moscow, Russia. I am into Programming and Math. Currently studying at Moscow Institute of Physics and Technology.
 
 ### 📫 Contact Me on Social Media
 [VK](https://vk.com/dan4ikl1) | [Telegram](https://t.me/jungletryne)
