@@ -8,6 +8,7 @@ I'm Danila Mishin, CS student from Moscow, Russia. I am into Programming and Mat
 - [JungleBot](https://github.com/JungleTryne/JungleBot): My own bot for Discord Servers. Very simple and clean
 - [ShortenURL](https://github.com/JungleTryne/ShortenURL): My old project that allows one to shorten any link given. Uses Django framework
 - [VKCardStone](https://github.com/JungleTryne/VKCardStone): University Project, gaming social media bot, used a lot of patterns in order to create the system
+- [Tupper's formula implementation](https://github.com/JungleTryne/Tupper-s-formula): Implementation of Tupper's encoder/decoder of images
 - [CTF Tools](https://github.com/JungleTryne/CTFCryptoStegTools): Some tools that might help on CTF tournaments
 
 Most of my C++ projects are in private repositories yet, to be opened for public soon.
