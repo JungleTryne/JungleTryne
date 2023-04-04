@@ -8,7 +8,7 @@ I'm Dan, CS student from Moscow, Russia. I am into Programming and Math. Current
 ### 💡 Projects
 **Open-Source contributions**:
 - [Ockam](https://github.com/build-trust/ockam): Making DX a little bit better
-- [ClickHouse Vector Similarity Search](https://github.com/ClickHouse/ClickHouse/pull/37392): Implementation of the DiskANN algorithm into ClickHouse for quick nearest neighbour search. For now still not stable. For more info, refer to [this issue](https://github.com/ClickHouse/ClickHouse/issues/35101)
+- [ClickHouse Vector Similarity Search](https://github.com/ClickHouse/ClickHouse/pull/37392): Implementation of the DiskANN algorithm into ClickHouse for quick nearest neighbour search. For more info, refer to [this issue](https://github.com/ClickHouse/ClickHouse/issues/35101)
 
 **School/Uni projects**:
 - [Virtual machine](https://github.com/JungleTryne/VMachine) with [custom assembly](https://github.com/JungleTryne/LittleCompiler)
