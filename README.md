@@ -7,6 +7,7 @@ I'm Dan, CS student from Moscow, Russia. I am into Programming and Math. Current
 
 ### 💡 Projects
 **Open-Source contributions**:
+- [Heh - Hex text editor](https://github.com/ndd7xv/heh)
 - [Ockam](https://github.com/build-trust/ockam): Making DX a little better
 - [ClickHouse Vector Similarity Search](https://github.com/ClickHouse/ClickHouse/pull/37392): Implementation of the DiskANN algorithm into ClickHouse for quick nearest neighbour search. For more info, refer to [this issue](https://github.com/ClickHouse/ClickHouse/issues/35101)
 
