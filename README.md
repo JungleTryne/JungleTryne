@@ -1,5 +1,5 @@
 ### 👋 Hi there
-I'm Dan, CS student from Moscow, Russia. I am into Programming and Math. Currently studying at Moscow Institute of Physics and Technology.
+I'm Dan, CS student at EPFL. I am into Programming and Math.
 
 ### 📫 Contact Me on Social Media
 - [Telegram](https://t.me/jungletryne)
