@@ -1,9 +1,9 @@
 ### 👋 Hi there
-I'm Dan, CS student at EPFL. I am into Programming and Math.
+I'm Dan, Master's CS student at EPFL. I am into Programming and Math.
 
 ### 📫 Contact Me on Social Media
 - [Telegram](https://t.me/jungletryne)
-- Discord: JungleTryne#1145
+- Discord: JungleTryne
 
 ### 💡 Projects
 **Open-Source contributions**:
