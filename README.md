@@ -1,5 +1,5 @@
 ### 👋 Hi there
-I'm Dan, Master's CS student at EPFL. I am into Programming and Math.
+I'm Dan, Master's Computer Science student at EPFL. MIPT alumni. I am into Programming and Math.
 
 ### 📫 Contact Me on Social Media
 - [Telegram](https://t.me/jungletryne)
