@@ -1,5 +1,6 @@
 ### 👋 Hi there
-I'm Dan, Master's Computer Science student at EPFL. MIPT alumnus. I am into Programming and Math.
+I'm Dan, Master's Computer Science student at EPFL, also doing research at PARSA lab on quantization of LLMs. MIPT alumnus. I am into Programming and Math.
+A little bit about me: https://danmishin.me
 
 ### 📫 Contact Me on Social Media
 - [Telegram](https://t.me/jungletryne)
@@ -7,12 +8,10 @@ I'm Dan, Master's Computer Science student at EPFL. MIPT alumnus. I am into Prog
 
 ### 💡 Projects
 **Open-Source contributions**:
-- [ClickHouse Vector Similarity Search](https://github.com/ClickHouse/ClickHouse/pull/37392): Implementation of the DiskANN algorithm into ClickHouse for quick nearest neighbour search. For more info, refer to [this issue](https://github.com/ClickHouse/ClickHouse/issues/35101)
-- [Ockam](https://github.com/build-trust/ockam): Making DX a little better
-- [Heh](https://github.com/ndd7xv/heh)
-- [Iced](https://github.com/iced-rs/iced)
-
-
+- [ClickHouse Vector Similarity Search](https://github.com/ClickHouse/ClickHouse/pull/37392): Implemented the DiskANN algorithm into ClickHouse for quick nearest neighbour search. [issue](https://github.com/ClickHouse/ClickHouse/issues/35101)
+- [Ockam](https://github.com/build-trust/ockam): Made DX a little better
+- [Heh](https://github.com/ndd7xv/heh): Added an endianess mode switch
+- [Iced](https://github.com/iced-rs/iced): Added functionality to make it possible to disable a text box
 
 **School/Uni projects**:
 - [Virtual machine](https://github.com/JungleTryne/VMachine) with [custom assembly](https://github.com/JungleTryne/LittleCompiler)
