@@ -1,6 +1,6 @@
 ### 👋 Hi there
 I'm Dan, Master's Computer Science student at EPFL, also doing research at PARSA lab on quantization of LLMs. MIPT alumnus. I am into Programming and Math.
-A little bit about me: https://danmishin.me
+A little bit about me: [jungletryne.github.io](https://jungletryne.github.io/)
 
 ### 📫 Contact Me on Social Media
 - [Telegram](https://t.me/jungletryne)
